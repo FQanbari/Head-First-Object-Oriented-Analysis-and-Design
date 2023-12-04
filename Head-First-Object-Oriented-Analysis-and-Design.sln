@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "chapter01", "chapter01", "{3C458542-60BF-4132-AE8F-0D9AD435B1CF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ricksGuitars-start", "ricksGuitars-start", "{865BC0A6-434D-4FBF-BCB9-1CF2AC8FB846}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ricksGuitars-start", "ricksGuitars\ricksGuitars-start\ricksGuitars-start.csproj", "{8FF20CB6-A0FC-4A19-BCD4-AF18F946898B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FF20CB6-A0FC-4A19-BCD4-AF18F946898B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF20CB6-A0FC-4A19-BCD4-AF18F946898B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF20CB6-A0FC-4A19-BCD4-AF18F946898B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF20CB6-A0FC-4A19-BCD4-AF18F946898B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{865BC0A6-434D-4FBF-BCB9-1CF2AC8FB846} = {3C458542-60BF-4132-AE8F-0D9AD435B1CF}
+		{8FF20CB6-A0FC-4A19-BCD4-AF18F946898B} = {865BC0A6-434D-4FBF-BCB9-1CF2AC8FB846}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9229DCA-7630-46DC-B71C-F347F639C321}
+	EndGlobalSection
+EndGlobal
